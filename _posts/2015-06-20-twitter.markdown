@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Twitter beastiegram"
+date:   2015-06-20 14:20:53
+categories: leader
+---
+
+You could play off site by using <a href="https://twitter.com/hashtag/beastiegram?src=hash&vertical=default&f=tweets">hashtags</a>. For example:
+
+<blockquote class="twitter-tweet" lang="en"><p lang="und" dir="ltr"><a href="https://twitter.com/hashtag/beastiegram?src=hash">#beastiegram</a> <a href="http://t.co/ZR5ymFbgHZ">pic.twitter.com/ZR5ymFbgHZ</a></p>&mdash; Julie Milne (@juliemilne73) <a href="https://twitter.com/juliemilne73/status/612285603196088321">June 20, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  
+ 
