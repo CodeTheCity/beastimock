@@ -7,6 +7,6 @@ categories: leader
 
 Use a captcha style approach to crowd identify beasties. For example:
 
-<img src="/beastigram/img/badger.png" />
+<img src="/beastimock/img/badger.png" />
   
  

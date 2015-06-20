@@ -7,6 +7,6 @@ categories: leader
 
 Some First Class work from Stuart Foy:
 
-<img src="/beastigram/img/beasty.png" />
+<img src="/beastimock/img/beasty.png" />
   
  
