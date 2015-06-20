@@ -2,7 +2,7 @@
 title: Beastigram
 email: steve@codethecity.org
 description: mockups for the beastiegram project
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/beastiemock/" # the subpath of your site, e.g. /blog/
 url: "http://beastiegram.github.io" # the base hostname & protocol for your site
 twitter_username: codethecity
 github_username:  codethecity
